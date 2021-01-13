@@ -34,7 +34,8 @@ public class BaiThucHanh1 {
          System.out.println("Mời bạn nhập điểm số 2: ");
          diem2 = sc.nextDouble();
          //Bước 3: Xử lý nghiệp vụ theo đầu bài
-         System.out.printf("Điểm số 1 = %f và Điểm số 2 = %f",diem1,diem2);
+         System.out.printf("Điểm số 1 = %f và Điểm số 2 = %f",diem1,diem2);  
     }
+   
 }
-
+     

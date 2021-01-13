@@ -13,7 +13,7 @@ public class B5_CacHamToanHoc {
        public static void main(String[] args) {
         
         // *********** Toán tử toán học trong Java ***********
-        //Thứ tự ưu tiên của toán học 5 +7*2 - 4/2 (Nhân và chia -> Cộng và trừ -> Trái sang phải);
+        //Thứ tự ưu tiên của toán học 5 + 7*2 - 4/2 (Nhân và chia -> Cộng và trừ -> Trái sang phải);
         
         //Ví dụ về thứ tự ưu tiên toán học
         System.out.println(5 + 7 * 2 - 4 / 2); // Nhân chia trước cộng trừ sau
