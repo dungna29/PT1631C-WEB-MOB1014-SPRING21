@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package BAI_OOP_LapTrinhHuongDoiTuong;
+package BAI5_OOP_LapTrinhHuongDoiTuong;
 
 /**
  *
